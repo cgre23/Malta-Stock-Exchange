@@ -11,7 +11,7 @@ from urllib.request import urlopen
 import streamlit as st
 
 st.set_page_config(
-    layout="centered", page_icon="🖱️", page_title="Malta Bonds YTM Calculator"
+    layout="wide", page_icon="🖱️", page_title="Malta Bonds YTM Calculator"
 )
 st.title("🖱️ Malta Bonds Yield-to-Maturity Calculator")
 st.write(
