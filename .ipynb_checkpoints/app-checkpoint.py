@@ -1,7 +1,4 @@
 import re
-import mechanize
-import xlsxwriter
-from lxml import html
 import os
 import csv
 from collections import defaultdict
